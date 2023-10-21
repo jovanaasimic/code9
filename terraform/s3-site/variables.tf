@@ -1,6 +1,6 @@
 variable "my_name" {
   type = string
-  defaults = "jovana-code9"
+  default = "jovana-code9"
 }
 
 variable "code9_prefix" {
